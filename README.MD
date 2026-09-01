@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caleb-mau&label=Profile%20views&color=0e75b6&style=flat" alt="caleb-mau" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caleb-mau" alt="caleb-mau" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/calebmau_" target="blank"><img src="https://img.shields.io/twitter/follow/calebmau_?logo=twitter&style=for-the-badge" alt="calebmau_" /></a> </p>
 
 - I am currently the Founder of Caleb Media Studio LLC [My Company](https://calebmedia.co)
